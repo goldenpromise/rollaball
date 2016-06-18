@@ -11,9 +11,17 @@ The user will utilize the arrow keys of the keyboard in order to move the ball. 
 Screenshots
 -------------
 
-![Alt  text](https://github.com/goldenpromise/messenger/blob/master/Screenshots/mscreenshots.PNG "Messenger Start Screen")
+![Alt  text](https://github.com/goldenpromise/rollaball/blob/master/Sshots/roll1.PNG "Game Environment")
 <br>
 
+![Alt  text](https://github.com/goldenpromise/rollaball/blob/master/Sshots/roll2.PNG "Top View of the Game Environment")
+<br>
+
+![Alt  text](https://github.com/goldenpromise/rollaball/blob/master/Sshots/roll3.PNG "The Ball")
+<br>
+
+![Alt  text](https://github.com/goldenpromise/rollaball/blob/master/Sshots/roll4.PNG "The Collectable Object")
+<br>
 
 Getting Started
 ---------------
